@@ -1,0 +1,19 @@
+baseURL = "https://ml.shoogle.net/mali"
+languageCode = "fr"
+title = "Mali"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "mali"
+
+[taxonomies]
+  shop = "shops"
