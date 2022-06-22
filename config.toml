@@ -1,4 +1,4 @@
-baseURL = "https://ml.shoogle.net/mali"
+baseURL = "https://ml.shoogle.net/mali/"
 languageCode = "fr"
 title = "Mali"
 theme = "ln-base"
