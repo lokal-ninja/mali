@@ -1,5 +1,0 @@
----
-title: "Siebougouni sugu"
-url: /bamako/siebougouni-sugu-67/
-shop: kiosque
----
