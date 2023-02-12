@@ -1,5 +1,5 @@
 ---
 title: "Chièbougouni so"
-url: /bamako/chiebougouni-so-3/
+url: /bamako/chiebougouni-so/
 shop: kiosque
 ---

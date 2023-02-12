@@ -1,5 +1,5 @@
 ---
 title: "Sougou dni"
-url: /bamako/sougou-dni-3/
+url: /bamako/sougou-dni/
 shop: kiosque
 ---

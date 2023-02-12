@@ -1,5 +1,5 @@
 ---
 title: "مصور"
-url: /brj-bjy-mkhtr/mswr-2/
+url: /brj-bjy-mkhtr/mswr/
 shop: photo
 ---

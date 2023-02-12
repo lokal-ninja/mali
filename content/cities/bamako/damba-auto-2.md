@@ -1,5 +1,5 @@
 ---
 title: "Damba auto"
-url: /bamako/damba-auto-2/
+url: /bamako/damba-auto/
 shop: pièces de voitures
 ---

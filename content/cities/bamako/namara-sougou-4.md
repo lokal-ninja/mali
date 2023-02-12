@@ -1,5 +1,5 @@
 ---
 title: "Namara sougou"
-url: /bamako/namara-sougou-4/
+url: /bamako/namara-sougou/
 shop: boutique
 ---

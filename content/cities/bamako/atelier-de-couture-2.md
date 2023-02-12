@@ -1,5 +1,5 @@
 ---
 title: "Atelier de couture"
-url: /bamako/atelier-de-couture-2/
-shop: boutique
+url: /bamako/atelier-de-couture/
+shop: shop
 ---

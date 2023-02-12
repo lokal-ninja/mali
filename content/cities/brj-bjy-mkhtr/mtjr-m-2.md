@@ -1,5 +1,5 @@
 ---
 title: "متاجر عامة"
-url: /brj-bjy-mkhtr/mtjr-m-2/
+url: /brj-bjy-mkhtr/mtjr-m/
 shop: vêtements
 ---

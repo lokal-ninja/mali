@@ -1,5 +1,5 @@
 ---
 title: "Sougou courani"
-url: /bamako/sougou-courani-31/
+url: /bamako/sougou-courani/
 shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Habiba market"
-url: /bamako/habiba-market-2/
+url: /bamako/habiba-market/
 shop: supermarché
 ---

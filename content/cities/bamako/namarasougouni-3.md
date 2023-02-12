@@ -1,5 +1,5 @@
 ---
 title: "Namarasougouni"
-url: /bamako/namarasougouni-3/
+url: /bamako/namarasougouni/
 shop: kiosque
 ---
