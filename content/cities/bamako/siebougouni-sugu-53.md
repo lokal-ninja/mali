@@ -1,5 +1,5 @@
 ---
 title: "Siebougouni sugu"
-url: /bamako/siebougouni-sugu/
+url: /bamako/siebougouni-sugu-53/
 shop: kiosque
 ---

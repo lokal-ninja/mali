@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
-url: /bamako/magasin/
+url: /bamako/magasin-au-bord-du-goudron/
 shop: magasin de campagne
 ---

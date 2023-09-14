@@ -1,5 +1,5 @@
 ---
 title: "Boutique vente téléphone"
-url: /bamako/boutique-vente-telephone/
+url: /bamako/boutique-vente-telephone-feu/
 shop: téléphone portable
 ---

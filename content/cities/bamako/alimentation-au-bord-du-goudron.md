@@ -1,5 +1,5 @@
 ---
 title: "Alimentation"
-url: /bamako/alimentation/
+url: /bamako/alimentation-au-bord-du-goudron/
 shop: commodité
 ---

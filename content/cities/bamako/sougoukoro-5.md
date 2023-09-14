@@ -1,5 +1,5 @@
 ---
 title: "Sougoukoro"
-url: /bamako/sougoukoro/
+url: /bamako/sougoukoro-5/
 shop: kiosque
 ---

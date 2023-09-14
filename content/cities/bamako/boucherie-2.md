@@ -1,5 +1,5 @@
 ---
 title: "Boucherie"
-url: /bamako/boucherie/
+url: /bamako/boucherie-2/
 shop: boucherie
 ---
