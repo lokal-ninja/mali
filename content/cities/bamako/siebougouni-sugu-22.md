@@ -1,5 +1,5 @@
 ---
 title: "Siebougouni sugu"
 url: /bamako/siebougouni-sugu-22/
-shop: kiosque
+shop: boutique
 ---
