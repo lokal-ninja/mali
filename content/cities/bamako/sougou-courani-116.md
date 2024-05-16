@@ -1,5 +1,5 @@
 ---
 title: "Sougou courani"
 url: /bamako/sougou-courani-116/
-shop: kiosque
+shop: boutique
 ---
