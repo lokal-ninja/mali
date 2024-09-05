@@ -1,5 +1,5 @@
 ---
 title: "CFAO"
 url: /bamako/cfao/
-shop: voiture
+shop: Autohaus
 ---

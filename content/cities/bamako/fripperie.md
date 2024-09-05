@@ -1,5 +1,5 @@
 ---
 title: "Fripperie"
 url: /bamako/fripperie/
-shop: vêtements
+shop: Kleidung
 ---

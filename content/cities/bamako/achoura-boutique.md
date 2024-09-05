@@ -1,5 +1,5 @@
 ---
 title: "Achoura boutique"
 url: /bamako/achoura-boutique/
-shop: thé
+shop: Tee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mall horizons aventures"
 url: /bamako/mall-horizons-aventures/
-shop: boutique
+shop: Modehaus
 ---

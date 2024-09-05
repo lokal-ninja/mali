@@ -1,5 +1,5 @@
 ---
 title: "Studio Photo Badenya"
 url: /bamako/studio-photo-badenya/
-shop: photo
+shop: Foto
 ---

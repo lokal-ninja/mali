@@ -1,5 +1,5 @@
 ---
 title: "mecanique"
 url: /bamako/mecanique/
-shop: moto
+shop: Motorrad
 ---

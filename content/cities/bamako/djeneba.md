@@ -1,5 +1,5 @@
 ---
 title: "Djeneba"
 url: /bamako/djeneba/
-shop: commodité
+shop: Lebensmittel
 ---

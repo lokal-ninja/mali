@@ -1,5 +1,5 @@
 ---
 title: "Alimentation balimaya"
 url: /bamako/alimentation-balimaya/
-shop: boutique
+shop: Modehaus
 ---

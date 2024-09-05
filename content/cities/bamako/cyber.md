@@ -1,5 +1,5 @@
 ---
 title: "Cyber"
 url: /bamako/cyber/
-shop: boutique
+shop: Modehaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Réparation"
 url: /bamako/reparation/
-shop: moto
+shop: Motorrad
 ---

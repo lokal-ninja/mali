@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie"
 url: /bamako/bijouterie/
-shop: bijoux
+shop: Schmuck
 ---
