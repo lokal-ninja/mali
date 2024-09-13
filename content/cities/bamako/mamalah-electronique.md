@@ -1,5 +1,5 @@
 ---
 title: "Mamalah electronique"
 url: /bamako/mamalah-electronique/
-shop: Handy
+shop: téléphone portable
 ---

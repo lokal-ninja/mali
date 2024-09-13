@@ -1,5 +1,5 @@
 ---
 title: "Quincailerie et diver"
 url: /bamako/quincailerie-et-diver/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "تين ظواتين"
 url: /tyn-zwtyn/tyn-zwtyn/
-shop: Autoteile
+shop: pièces de voitures
 ---

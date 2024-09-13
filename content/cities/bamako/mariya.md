@@ -1,5 +1,5 @@
 ---
 title: "Mariya"
 url: /bamako/mariya/
-shop: Modehaus
+shop: boutique
 ---

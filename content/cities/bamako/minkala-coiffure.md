@@ -1,5 +1,5 @@
 ---
 title: "Minkala coiffure"
 url: /bamako/minkala-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

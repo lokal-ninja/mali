@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie generale"
 url: /bamako/quincaillerie-generale/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Oumar kampo"
 url: /bamako/oumar-kampo/
-shop: Kramladen
+shop: magasin de variétés
 ---

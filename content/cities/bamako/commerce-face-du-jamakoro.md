@@ -1,5 +1,5 @@
 ---
 title: "commerce"
 url: /bamako/commerce-face-du-jamakoro/
-shop: Kramladen
+shop: magasin de variétés
 ---

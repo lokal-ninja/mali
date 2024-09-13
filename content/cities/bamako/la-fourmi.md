@@ -1,5 +1,5 @@
 ---
 title: "La fourmi"
 url: /bamako/la-fourmi/
-shop: Supermarkt
+shop: supermarché
 ---

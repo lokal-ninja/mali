@@ -1,5 +1,5 @@
 ---
 title: "Diallo electronique"
 url: /bamako/diallo-electronique/
-shop: Handy
+shop: téléphone portable
 ---

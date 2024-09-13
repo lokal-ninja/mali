@@ -1,5 +1,5 @@
 ---
 title: "SicaNet Store"
 url: /sikasso/sicanet-store/
-shop: Handy
+shop: téléphone portable
 ---

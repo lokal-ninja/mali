@@ -1,5 +1,5 @@
 ---
 title: "Ladji couture"
 url: /bamako/ladji-couture/
-shop: Modehaus
+shop: boutique
 ---

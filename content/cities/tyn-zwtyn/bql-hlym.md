@@ -1,5 +1,5 @@
 ---
 title: "بقالة حليم"
 url: /tyn-zwtyn/bql-hlym/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "commerce"
 url: /bamako/commerce-sougouda/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "boutique Lukoil"
 url: /bamako/boutique-lukoil/
-shop: Kramladen
+shop: magasin de variétés
 ---

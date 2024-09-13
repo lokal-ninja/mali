@@ -1,5 +1,5 @@
 ---
 title: "Sahel media com"
 url: /bamako/sahel-media-com/
-shop: Kramladen
+shop: magasin de variétés
 ---

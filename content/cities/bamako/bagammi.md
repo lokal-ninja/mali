@@ -1,5 +1,5 @@
 ---
 title: "Bagammi"
 url: /bamako/bagammi/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "alimentation"
 url: /bamako/alimentation/
-shop: Lebensmittel
+shop: commodité
 ---

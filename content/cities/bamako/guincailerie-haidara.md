@@ -1,5 +1,5 @@
 ---
 title: "Guincailerie haidara"
 url: /bamako/guincailerie-haidara/
-shop: Eisenwaren
+shop: matériel informatique
 ---

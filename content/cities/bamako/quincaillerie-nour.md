@@ -1,5 +1,5 @@
 ---
 title: "quincaillerie nour"
 url: /bamako/quincaillerie-nour/
-shop: Eisenwaren
+shop: matériel informatique
 ---

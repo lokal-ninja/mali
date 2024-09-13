@@ -1,5 +1,5 @@
 ---
 title: "Future Technologie"
 url: /bamako/future-technologie/
-shop: Computer
+shop: ordinateur
 ---

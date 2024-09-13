@@ -1,5 +1,5 @@
 ---
 title: "Konate coiffure"
 url: /bamako/konate-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

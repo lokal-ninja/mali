@@ -1,5 +1,5 @@
 ---
 title: "PMU express"
 url: /bamako/pmu-express/
-shop: Wettbüro
+shop: bookmaker
 ---

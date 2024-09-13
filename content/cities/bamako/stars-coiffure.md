@@ -1,5 +1,5 @@
 ---
 title: "Stars coiffure"
 url: /bamako/stars-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

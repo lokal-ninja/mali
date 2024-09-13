@@ -1,5 +1,5 @@
 ---
 title: "Agence de voyage et de tourisme"
 url: /bamako/agence-de-voyage-et-de-tourisme/
-shop: Reisebüro
+shop: agence de voyage
 ---

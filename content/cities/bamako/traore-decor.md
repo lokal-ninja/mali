@@ -1,5 +1,5 @@
 ---
 title: "Traoré décor"
 url: /bamako/traore-decor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

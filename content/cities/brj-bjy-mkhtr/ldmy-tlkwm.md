@@ -1,5 +1,5 @@
 ---
 title: "لادمي تلكوم"
 url: /brj-bjy-mkhtr/ldmy-tlkwm/
-shop: Handy
+shop: téléphone portable
 ---

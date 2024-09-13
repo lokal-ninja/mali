@@ -1,5 +1,5 @@
 ---
 title: "Magasin"
 url: /bamako/magasin/
-shop: Dorfladen
+shop: magasin de campagne
 ---

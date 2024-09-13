@@ -1,5 +1,5 @@
 ---
 title: "Atelier"
 url: /bamako/atelier-2/
-shop: Modehaus
+shop: boutique
 ---

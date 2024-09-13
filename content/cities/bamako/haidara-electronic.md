@@ -1,5 +1,5 @@
 ---
 title: "Haidara electronic"
 url: /bamako/haidara-electronic/
-shop: Computer
+shop: ordinateur
 ---

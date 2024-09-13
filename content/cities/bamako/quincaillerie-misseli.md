@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Misseli"
 url: /bamako/quincaillerie-misseli/
-shop: Eisenwaren
+shop: matériel informatique
 ---

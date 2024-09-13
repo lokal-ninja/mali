@@ -1,5 +1,5 @@
 ---
 title: "محل إسماعيل للهواتف"
 url: /brj-bjy-mkhtr/mhl-sm-yl-llhwtf/
-shop: Handy
+shop: téléphone portable
 ---

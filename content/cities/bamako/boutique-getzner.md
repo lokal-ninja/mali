@@ -1,5 +1,5 @@
 ---
 title: "Boutique getzner"
 url: /bamako/boutique-getzner/
-shop: Modehaus
+shop: boutique
 ---

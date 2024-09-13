@@ -1,5 +1,5 @@
 ---
 title: "Diallo boutique"
 url: /bamako/diallo-boutique/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Niama city sono"
 url: /bamako/niama-city-sono/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fofy"
 url: /bamako/fofy/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

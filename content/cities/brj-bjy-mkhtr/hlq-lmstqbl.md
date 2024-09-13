@@ -1,5 +1,5 @@
 ---
 title: "حلاق المستقبل"
 url: /brj-bjy-mkhtr/hlq-lmstqbl/
-shop: Friseur
+shop: coiffeur
 ---

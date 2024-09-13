@@ -1,5 +1,5 @@
 ---
 title: "shopping"
 url: /bamako/shopping/
-shop: Modehaus
+shop: boutique
 ---

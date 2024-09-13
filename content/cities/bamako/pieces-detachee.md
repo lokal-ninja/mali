@@ -1,5 +1,5 @@
 ---
 title: "Pieces detachee"
 url: /bamako/pieces-detachee/
-shop: Autoteile
+shop: pièces de voitures
 ---

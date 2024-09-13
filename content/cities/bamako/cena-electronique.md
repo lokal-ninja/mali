@@ -1,5 +1,5 @@
 ---
 title: "Cena electronique"
 url: /bamako/cena-electronique/
-shop: Handy
+shop: téléphone portable
 ---

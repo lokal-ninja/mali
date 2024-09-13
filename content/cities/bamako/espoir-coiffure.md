@@ -1,5 +1,5 @@
 ---
 title: "Espoir Coiffure"
 url: /bamako/espoir-coiffure/
-shop: Kosmetik
+shop: beauté
 ---

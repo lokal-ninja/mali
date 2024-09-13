@@ -1,5 +1,5 @@
 ---
 title: "Diadie couture"
 url: /bamako/diadie-couture/
-shop: Modehaus
+shop: boutique
 ---

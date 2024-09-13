@@ -1,5 +1,5 @@
 ---
 title: "Soumaila et freres"
 url: /bamako/soumaila-et-freres/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karcher"
 url: /bamako/karcher/
-shop: Kramladen
+shop: magasin de variétés
 ---

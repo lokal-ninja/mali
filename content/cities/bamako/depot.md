@@ -1,5 +1,5 @@
 ---
 title: "Depot"
 url: /bamako/depot/
-shop: Warenhaus
+shop: grand magasin
 ---

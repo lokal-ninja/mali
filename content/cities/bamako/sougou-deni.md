@@ -1,5 +1,5 @@
 ---
 title: "Sougou deni"
 url: /bamako/sougou-deni/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "garage"
 url: /bamako/garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

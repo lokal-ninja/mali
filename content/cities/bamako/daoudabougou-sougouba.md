@@ -1,5 +1,5 @@
 ---
 title: "Daoudabougou sougouba"
 url: /bamako/daoudabougou-sougouba/
-shop: Kiosk
+shop: kiosque
 ---

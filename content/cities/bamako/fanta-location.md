@@ -1,5 +1,5 @@
 ---
 title: "Fanta location"
 url: /bamako/fanta-location/
-shop: Leiher
+shop: prêteur sur gages
 ---

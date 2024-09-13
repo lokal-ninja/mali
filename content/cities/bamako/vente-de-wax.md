@@ -1,5 +1,5 @@
 ---
 title: "Vente de wax"
 url: /bamako/vente-de-wax/
-shop: Textil
+shop: tissu
 ---

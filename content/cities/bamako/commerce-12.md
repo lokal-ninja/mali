@@ -1,5 +1,5 @@
 ---
 title: "commerce"
 url: /bamako/commerce-12/
-shop: Kramladen
+shop: magasin de variétés
 ---
