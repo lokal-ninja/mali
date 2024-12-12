@@ -1,5 +1,5 @@
 ---
 title: "Collage"
-url: /bamako/collage-rue-teteba/
+url: /bamako/collage-2/
 shop: pneus
 ---
