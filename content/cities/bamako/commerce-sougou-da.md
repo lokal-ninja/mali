@@ -1,5 +1,5 @@
 ---
 title: "commerce"
-url: /bamako/commerce-13/
+url: /bamako/commerce-sougou-da/
 shop: magasin de variétés
 ---
