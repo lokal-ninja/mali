@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
-url: /bamako/boulangerie-3/
+url: /bamako/boulangerie-au-bord-du-goudron/
 shop: boulangerie
 ---
