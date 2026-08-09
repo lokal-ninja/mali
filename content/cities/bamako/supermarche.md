@@ -1,5 +1,5 @@
 ---
-title: "supermarché"
+title: "Supermarché"
 url: /bamako/supermarche/
 shop: supermarché
 ---
