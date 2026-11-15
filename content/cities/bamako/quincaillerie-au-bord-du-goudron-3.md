@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie"
-url: /bamako/quincaillerie-batiekorobougou/
+url: /bamako/quincaillerie-au-bord-du-goudron-3/
 shop: matériel informatique
 ---
